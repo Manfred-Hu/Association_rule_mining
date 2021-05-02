@@ -14,7 +14,7 @@ Application of apriori algorithms with different pruning tricks and mining assoc
 -- Perfoemance analysis among differrnt apriori algorithms and FP-Growth algorithm.
 
 
-#2.Ways to run:
+# 2.Ways to run:
 
 -- Run My_apriori.py directly(set the path of 'Groceries.csv' correctly).
 
@@ -23,7 +23,7 @@ Application of apriori algorithms with different pruning tricks and mining assoc
 example: $python My_apriori.py -f ../GroceryStore/Groceries.csv -s 0.01 -n 3
 
 
-#3.Result:
+# 3.Result:
 
 3.1 Frequency three itemsets(FrequentNum=3, SupportRatio=0.01):
 
