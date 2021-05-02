@@ -1,5 +1,6 @@
 # Association_rule_mining
 1.Content: 
+
 Application of apriori algorithms with different pruning tricks and mining association rules in the given dataset(../GroceryStore/Groceries.csv).
 
 -- Dummy Apriori;
