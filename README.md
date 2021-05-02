@@ -32,7 +32,7 @@ example: $python My_apriori.py -f ../GroceryStore/Groceries.csv -s 0.01 -n 3
 
 ![image](https://user-images.githubusercontent.com/68360191/116813211-4ade1300-ab85-11eb-9b4f-f7bf379fcb2d.png)
 
-Differnt apriori algorithms has the same result. However, the results of FP-Growth is a bit different, and its association rules is less.
+Differnt apriori algorithms has the same result. However, the results of FP-Growth is a bit different, and its association rules is less than apriori algorithms.
 
 3.3 Comparison of running time:
 
